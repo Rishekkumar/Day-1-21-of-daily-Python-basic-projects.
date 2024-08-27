@@ -1,4 +1,4 @@
-Dice Roll Game
+Dice Roll Game , 
 This is a simple command-line game where 2-4 players take turns rolling a dice to accumulate points. The first player to reach or exceed 50 points wins!
 
 How to Play
